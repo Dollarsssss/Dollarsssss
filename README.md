@@ -11,7 +11,7 @@ I am learning About Website Development
                     
    Socials
        
-                <p align="left">
+<p align="left">
                       <a href="https://www.facebook.com/Aomsup Ponapan" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
@@ -32,4 +32,4 @@ I am learning About Website Development
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
                     </picture>
-                    </a></p>
+</a></p>
