@@ -1,6 +1,6 @@
 Hi 👋 My name is Aomsup Pongpan
 ===============================
-
+Junior Programmer | Web Developer
 I am learning About Website Development
 
 *   🌍  I'm based in Bangkok, Thailand
