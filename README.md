@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Aomsup Pongpan
 =================================================================================================================================================
 
-Junior Programmer | Software Engineer
+Junior Programmer
 ---------------------------------
 
-I am learning About Website Development
+I am learning About Computer science at Rangsit University
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🧠  I'm learning now is TypeScript, NextJS, Sass , ReactNative
