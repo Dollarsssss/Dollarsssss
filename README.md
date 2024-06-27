@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Programmer
 ---------------------------------
 
-I am learning About Computer science at Rangsit University
+I am learning about computer science at Rangsit University
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🧠  I'm learning now is TypeScript, NextJS, Sass , ReactNative
