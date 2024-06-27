@@ -7,7 +7,7 @@ Junior Programmer | Web Developer
 I am learning About Website Development
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🧠  I'm learning now is TypeScript, NextJS, Sass
+* 🧠  I'm learning now is TypeScript, NextJS, Sass , ReactNative
 
 ### Skills
 
